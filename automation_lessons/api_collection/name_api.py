@@ -1,5 +1,5 @@
 from automation_lessons.data.gender import Gender
-from automation_lessons.my_framework.utilities.api.base_api import BaseAPI
+from automation_lessons.my_framework.utilities.api.BaseAPI import BaseAPI
 
 
 class NameAPI(BaseAPI):
